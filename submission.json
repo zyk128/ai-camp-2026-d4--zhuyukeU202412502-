@@ -4,7 +4,7 @@
   "members": [
     "刘语桐，朱玉珂"
   ],
-  "repository_url": "填写 GitHub 仓库 URL（建库后回填）",
+  "repository_url": "https://github.com/zyk128/ai-camp-2026-d4--zhuyukeU202412502-",
   "run_command": "python app.py --check-data && python app.py --evaluate",
   "test_command": "python -m unittest discover -s tests -v",
   "report": "report.md",
